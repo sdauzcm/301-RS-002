@@ -1,3 +1,10 @@
+原始网址：https://github.com/jiangxu87/dstl_unet
+陈岩，这一个是比较和咱们的工作相符的，你停一下现在运行的MASKRCNN，先运行一下这一个。
+下面是原来的说明，你需要仔细看一下
+
+
+
+
 (Check out my Medium post (https://goo.gl/Ussdr1) for more details of this project.)
 
 # A U-net based on Tensorflow for objection detection (or segmentation) of satellite images
